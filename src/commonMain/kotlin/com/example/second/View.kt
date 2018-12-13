@@ -1,6 +1,3 @@
 package com.example.second
 
-data class View(
-    val field3: String,
-    val field4: List<String>
-)
+data class View(val field: String)
